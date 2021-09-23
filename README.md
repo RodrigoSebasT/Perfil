@@ -20,3 +20,5 @@ Ciencia de la computacion en UTEC.
 # Metas 2021
 * Terminar curso de desarrollo web
 * Aprobar todos mis cursos de primer ciclo
+
+**Buen perfil!!**
