@@ -2,7 +2,7 @@
 
 Mi nombre es Rodrigo y soy estudiante de Ciencia de la computacion en UTEC.
 
-<img style="width:200px;height:200px;" src="//cs.utec.edu.pe/assets/img/CS-UTEC-Logo.jpeg)"/>
+<img style="width:200px;height:200px;" src="//cs.utec.edu.pe/assets/img/CS-UTEC-Logo.jpeg"/>
 
 # Lenguajes de programación que conozco a nivel básico
 <p  align="center">
