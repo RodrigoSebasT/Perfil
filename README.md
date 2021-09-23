@@ -1,8 +1,8 @@
 # Mi perfil
 
-Mi nombre es rodrigo y soy estudiante de ciencia de la computacion en UTEC
+Mi nombre es Rodrigo y soy estudiante de Ciencia de la computacion en UTEC.
 
-![IMAGEN](https://cs.utec.edu.pe/assets/img/CS-UTEC-Logo.jpeg)
+<img width="200px" height="200px" src="//cs.utec.edu.pe/assets/img/CS-UTEC-Logo.jpeg)"/>
 
 # Lenguajes de programación que conozco a nivel básico
 <p  align="center">
